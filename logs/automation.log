@@ -1,0 +1,790 @@
+2024-11-25 16:14:24,615 - automationlogger - INFO - *************** Testing Logging Page *****************
+2024-11-25 16:14:30,334 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-25 16:14:30,334 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-25 16:14:36,181 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-25 16:18:23,362 - automationlogger - INFO - *************** Testing Logging Page *****************
+2024-11-25 16:18:29,102 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-25 16:18:29,118 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-25 16:18:35,430 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-25 16:21:30,425 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 16:21:37,121 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-25 16:21:37,121 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-25 16:21:43,220 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-25 16:21:43,220 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-25 16:21:44,593 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-25 17:36:16,540 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:36:21,770 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:37:57,269 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:38:02,411 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:38:59,501 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:39:04,930 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:40:13,876 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:40:18,970 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:41:20,640 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:41:26,063 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:42:38,511 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:42:43,566 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:44:54,119 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:44:59,341 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:45:37,967 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:45:43,832 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:48:48,709 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:48:54,493 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:50:21,520 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:50:27,047 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:51:35,602 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:52:01,523 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:54:42,946 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:54:48,612 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:55:05,196 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:55:05,196 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:55:10,765 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-25 17:55:10,765 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-25 17:55:10,765 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-25 17:55:10,765 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-25 17:55:16,913 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-25 17:55:16,913 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-25 17:55:16,913 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-25 17:55:16,913 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-25 17:55:18,646 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-25 17:55:18,646 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-25 17:56:21,835 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:56:26,980 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 17:56:53,988 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:56:53,988 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 17:56:59,357 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-25 17:56:59,357 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-25 17:56:59,357 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-25 17:56:59,357 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-25 17:57:04,920 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-25 17:57:04,920 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-25 17:57:04,920 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-25 17:57:04,920 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-25 17:57:06,011 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-25 17:57:06,011 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-25 18:03:45,537 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:03:51,393 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:12:18,887 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:12:24,535 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:15:42,215 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:15:47,307 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:17:31,964 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:17:37,404 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:32:26,205 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:32:31,526 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:33:15,546 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:33:20,707 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:34:37,774 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:34:42,786 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:35:38,304 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:35:43,365 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:36:45,797 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:36:53,355 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:40:17,178 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:40:22,458 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:43:14,083 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:43:19,346 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:47:17,585 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:47:22,933 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:50:58,369 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:51:03,506 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:53:41,446 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:53:46,777 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 18:57:31,743 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 18:57:36,614 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 19:19:15,144 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 19:19:20,560 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 19:19:46,228 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 19:19:51,333 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 19:22:10,155 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 19:22:15,337 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 19:23:30,517 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 19:23:35,506 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 19:24:39,409 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 19:24:44,895 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-25 19:26:44,700 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-25 19:26:49,850 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:31:47,614 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 12:31:52,843 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:33:06,482 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 12:33:11,622 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:35:10,911 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 12:35:16,351 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:39:22,801 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 12:39:27,620 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:45:08,423 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 12:45:13,852 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:45:28,198 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-26 12:46:22,485 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 12:46:27,616 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:46:41,653 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-26 12:49:01,295 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 12:49:06,319 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:49:20,251 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-26 12:50:22,609 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 12:50:27,666 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 12:50:41,658 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-26 14:40:32,279 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 14:40:37,649 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-26 14:41:34,579 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 14:41:39,936 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-26 14:45:07,094 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 14:45:12,685 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-26 14:51:21,139 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 14:51:26,193 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-26 14:51:40,011 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-26 14:51:53,504 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 14:52:01,315 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-26 14:58:22,768 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 14:58:28,573 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-26 14:59:11,981 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 14:59:19,768 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-26 14:59:59,387 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-26 15:00:05,643 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 12:58:28,634 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 12:58:34,038 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:08:28,993 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:08:35,563 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:13:08,911 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:13:14,209 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:24:28,787 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:24:34,318 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:28:00,107 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:28:05,463 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:30:21,145 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:30:26,959 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:31:54,822 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:32:00,387 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:36:37,825 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:36:45,302 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:39:41,131 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:39:46,743 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 13:40:41,368 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 13:41:08,560 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:02:08,380 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:02:13,384 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:10:38,657 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:10:44,090 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:14:34,538 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:14:39,710 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:19:53,376 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:19:58,879 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:20:11,745 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-27 14:20:37,247 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:20:42,458 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:20:56,178 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-27 14:23:43,199 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:23:48,289 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:24:01,232 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-27 14:25:55,377 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:26:00,491 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:26:37,016 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:26:42,171 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:27:59,628 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:28:04,601 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:28:17,677 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-27 14:29:33,503 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:29:38,684 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 14:30:49,230 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-27 14:30:54,549 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-27 15:01:27,028 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:01:32,257 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:03:21,262 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:03:26,634 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:04:09,278 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:04:14,241 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:04:57,863 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:05:03,265 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:19:39,306 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:19:44,771 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:19:59,803 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 15:22:04,285 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:22:09,308 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:22:24,159 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 15:24:24,293 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:24:29,541 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:24:44,458 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 15:26:31,893 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:26:37,272 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:26:52,006 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 15:46:52,515 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:46:58,049 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:47:12,519 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 15:53:31,401 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:53:36,780 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:57:37,338 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 15:57:42,655 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 15:57:57,325 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 16:00:46,139 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 16:00:51,355 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 16:01:06,157 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 16:03:45,453 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 16:03:51,381 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 16:04:06,551 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 16:08:25,720 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 16:08:30,657 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 16:08:35,261 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 16:09:29,330 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 16:09:34,268 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 16:09:38,885 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 16:10:19,573 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 16:10:24,906 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 16:10:30,258 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 16:12:43,020 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 16:12:48,281 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 16:13:28,405 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 16:13:33,888 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-27 16:13:43,019 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-27 17:28:37,747 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 17:32:08,193 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 17:35:00,593 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 17:38:46,429 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 17:46:37,259 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 17:55:37,748 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 17:59:07,563 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 18:05:37,096 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 18:11:36,506 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 18:13:44,333 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 18:15:03,234 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 18:16:39,007 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 18:19:10,812 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-27 18:23:14,136 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 11:53:33,967 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 11:54:53,163 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 11:55:20,043 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:55:20,043 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:55:25,654 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 11:55:25,654 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 11:55:41,031 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 11:55:41,031 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 11:55:56,382 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:55:56,382 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:55:56,382 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:56:01,889 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 11:56:01,889 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 11:56:01,889 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 11:56:18,326 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 11:56:18,326 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 11:56:18,326 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 11:56:28,204 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:56:28,204 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:56:28,204 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:56:28,204 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 11:56:34,227 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 11:56:34,227 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 11:56:34,227 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 11:56:34,227 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 11:56:34,227 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 11:56:34,227 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 11:56:34,227 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 11:56:34,227 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 11:56:39,887 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 11:56:39,887 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 11:56:39,887 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 11:56:39,887 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 11:56:39,887 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 11:56:39,887 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 11:56:39,887 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 11:56:39,887 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 11:56:41,104 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 11:56:41,104 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 11:56:41,104 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 11:56:41,104 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 11:56:48,548 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 11:56:48,548 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 11:56:48,548 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 11:56:48,548 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 11:56:48,548 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 11:56:54,368 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 11:56:54,368 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 11:56:54,368 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 11:56:54,368 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 11:56:54,368 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 11:57:05,007 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 11:57:05,007 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 11:57:05,007 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 11:57:05,007 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 11:57:05,007 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:30:01,485 - automationlogger - INFO - *************** Testing Booking Cars Started *****************
+2024-11-28 12:30:02,795 - automationlogger - INFO - ***************** Opening Websites ***************
+2024-11-28 12:30:19,278 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:30:19,278 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:30:25,009 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:30:25,009 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:30:42,480 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:30:42,480 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:30:42,480 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:30:49,061 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:30:49,061 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:30:49,061 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:30:58,369 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:30:58,369 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:30:58,369 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:31:04,797 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:31:04,797 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:31:04,797 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:31:04,797 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:31:10,560 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:31:10,560 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:31:10,560 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:31:10,560 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:31:10,560 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:31:10,560 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:31:10,560 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:31:10,560 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:31:16,013 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:31:16,013 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:31:16,013 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:31:16,013 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:31:16,021 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:31:16,021 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:31:16,021 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:31:16,021 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:31:17,595 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 12:31:17,595 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 12:31:17,595 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 12:31:17,595 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 12:31:24,093 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:31:24,093 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:31:24,093 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:31:24,093 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:31:24,093 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:31:29,613 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:31:29,613 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:31:29,613 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:31:29,613 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:31:29,613 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:31:41,088 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:31:41,088 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:31:41,088 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:31:41,088 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:31:41,088 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:33:10,230 - automationlogger - INFO - *************** Testing Booking Cars Started *****************
+2024-11-28 12:33:13,842 - automationlogger - INFO - ***************** Opening Websites ***************
+2024-11-28 12:33:16,629 - automationlogger - INFO - ***************** Opening Car Tab for Booking ***************
+2024-11-28 12:33:28,095 - automationlogger - INFO - ************ Car Booking Finished ***********
+2024-11-28 12:33:54,145 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:33:54,145 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:34:00,306 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:34:00,306 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:34:16,289 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:34:16,289 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:34:22,352 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:34:22,352 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:34:48,786 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:34:48,786 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:34:48,786 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:34:54,782 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:34:54,782 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:34:54,782 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:35:03,249 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:35:03,249 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:35:03,249 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:35:07,830 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:35:07,830 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:35:07,830 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:35:10,657 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:35:10,657 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:35:10,657 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:35:37,828 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:35:37,828 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:35:37,828 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:35:37,828 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:35:43,447 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:35:43,447 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:35:43,447 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:35:43,447 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:35:43,447 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:35:43,447 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:35:43,447 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:35:43,447 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:35:49,550 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:35:49,550 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:35:49,550 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:35:49,550 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:35:49,558 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:35:49,558 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:35:49,558 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:35:49,558 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:35:50,911 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 12:35:50,911 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 12:35:50,911 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 12:35:50,911 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 12:36:15,805 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:36:15,805 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:36:15,805 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:36:15,805 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:36:15,805 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:36:23,501 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:36:23,501 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:36:23,501 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:36:23,501 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:36:23,501 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:36:34,017 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:36:34,017 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:36:34,017 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:36:34,017 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:36:34,017 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:39:21,504 - automationlogger - INFO - *************** Testing Booking Cars Started *****************
+2024-11-28 12:39:25,300 - automationlogger - INFO - ***************** Opening Websites ***************
+2024-11-28 12:39:49,299 - automationlogger - INFO - ***************** Opening Car Tab for Booking ***************
+2024-11-28 12:40:02,669 - automationlogger - INFO - ************ Car Booking Finished ***********
+2024-11-28 12:40:12,463 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:40:12,463 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:40:18,199 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:40:18,199 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:40:32,557 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:40:32,557 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:40:38,639 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:40:38,639 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:40:48,514 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:40:48,514 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:40:48,514 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:40:53,925 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:40:53,925 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:40:53,925 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:41:02,048 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:41:02,048 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:41:02,048 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:41:06,419 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:41:06,419 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:41:06,419 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:41:09,277 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:41:09,277 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:41:09,277 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:41:19,778 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:41:19,778 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:41:19,778 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:41:19,778 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:41:25,698 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:41:25,698 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:41:25,698 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:41:25,698 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:41:25,698 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:41:25,698 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:41:25,698 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:41:25,698 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:41:55,750 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:41:55,750 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:41:55,750 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:41:55,750 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:41:55,750 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:42:01,518 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:42:01,518 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:42:01,518 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:42:01,518 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:42:01,518 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:42:13,205 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:42:13,205 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:42:13,205 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:42:13,205 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:42:13,205 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:43:37,653 - automationlogger - INFO - *************** Testing Booking Cars Started *****************
+2024-11-28 12:43:42,820 - automationlogger - INFO - ***************** Opening Websites ***************
+2024-11-28 12:43:45,750 - automationlogger - INFO - ***************** Opening Car Tab for Booking ***************
+2024-11-28 12:43:57,199 - automationlogger - INFO - ************ Car Booking Finished ***********
+2024-11-28 12:44:06,378 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:44:06,378 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:44:11,911 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:44:11,911 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:44:26,587 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:44:26,587 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:44:32,669 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:44:32,669 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:44:42,285 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:44:42,285 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:44:42,285 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:44:48,131 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:44:48,131 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:44:48,131 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:44:57,125 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:44:57,125 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:44:57,125 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:45:01,468 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:45:01,468 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:45:01,468 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:45:04,290 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:45:04,290 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:45:04,290 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:45:15,055 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:45:15,055 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:45:15,055 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:45:15,055 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:45:21,689 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:45:21,689 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:45:21,689 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:45:21,689 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:45:21,689 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:45:21,689 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:45:21,689 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:45:21,689 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:45:49,634 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:45:49,634 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:45:49,634 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:45:49,634 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:45:49,634 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:45:55,792 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:45:55,792 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:45:55,792 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:45:55,792 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:45:55,792 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:46:08,117 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:46:08,117 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:46:08,117 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:46:08,117 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:46:08,117 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:46:58,183 - automationlogger - INFO - *************** Testing Booking Cars Started *****************
+2024-11-28 12:47:02,264 - automationlogger - INFO - ***************** Opening Websites ***************
+2024-11-28 12:47:04,939 - automationlogger - INFO - ***************** Opening Car Tab for Booking ***************
+2024-11-28 12:47:20,555 - automationlogger - INFO - ************ Car Booking Finished ***********
+2024-11-28 12:47:30,040 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:47:30,040 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:47:35,526 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:47:35,526 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:47:50,499 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:47:50,499 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:47:56,449 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:47:56,449 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:48:06,235 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:48:06,235 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:48:06,235 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:48:11,880 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:48:11,880 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:48:11,880 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:48:19,834 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:48:19,834 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:48:19,834 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:48:24,207 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:48:24,207 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:48:24,207 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:48:27,780 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:48:27,780 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:48:27,780 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:48:38,183 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:48:38,183 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:48:38,183 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:48:38,183 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:48:44,574 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:48:44,574 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:48:44,574 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:48:44,574 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:48:44,574 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:48:44,574 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:48:44,574 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:48:44,574 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:49:14,377 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:49:14,377 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:49:14,377 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:49:14,377 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:49:14,377 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:49:20,126 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:49:20,126 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:49:20,126 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:49:20,126 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:49:20,126 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:49:30,857 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:49:30,857 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:49:30,857 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:49:30,857 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:49:30,857 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:52:51,961 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:52:56,981 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:53:10,837 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:53:16,706 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:53:26,050 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:53:26,050 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:53:31,025 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:53:31,025 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:53:38,003 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:53:38,003 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:53:44,042 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:53:44,042 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:53:44,042 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:53:49,878 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:53:49,878 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:53:49,878 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:53:49,878 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:53:49,878 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:53:49,878 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:53:55,190 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:53:55,190 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:53:55,190 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:53:59,796 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:53:59,796 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:53:59,796 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:54:20,907 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:54:20,907 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:54:20,907 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:54:20,907 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:54:26,319 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:54:26,319 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:54:26,319 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:54:26,319 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:54:35,792 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:54:35,792 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:54:35,792 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:54:35,792 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:57:28,608 - automationlogger - INFO - *************** Testing Booking Cars Started *****************
+2024-11-28 12:57:29,526 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:57:31,972 - automationlogger - INFO - ***************** Opening Websites ***************
+2024-11-28 12:57:34,647 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 12:57:34,894 - automationlogger - INFO - ***************** Opening Car Tab for Booking ***************
+2024-11-28 12:57:42,845 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 12:57:46,916 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 12:57:48,176 - automationlogger - INFO - ************ Car Booking Finished ***********
+2024-11-28 12:57:50,272 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 12:58:05,273 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:58:05,273 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:58:09,653 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:58:09,653 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 12:58:10,284 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:58:10,284 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 12:58:15,594 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:58:15,594 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 12:58:15,594 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:58:15,594 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 12:58:20,877 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:58:20,877 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 12:58:24,278 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:58:24,278 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 12:58:25,705 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:58:25,705 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 12:58:29,999 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:58:29,999 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 12:58:45,712 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:58:45,712 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:58:45,712 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 12:58:51,297 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:58:51,297 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:58:51,297 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 12:59:01,378 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:59:01,378 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 12:59:01,378 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:36:34,467 - automationlogger - INFO - *************** Testing Booking Cars Started *****************
+2024-11-28 14:36:38,304 - automationlogger - INFO - ***************** Opening Websites ***************
+2024-11-28 14:36:41,229 - automationlogger - INFO - ***************** Opening Car Tab for Booking ***************
+2024-11-28 14:36:55,254 - automationlogger - INFO - ************ Car Booking Finished ***********
+2024-11-28 14:37:05,336 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:37:05,336 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:37:12,131 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 14:37:12,131 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 14:37:29,546 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 14:37:29,546 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 14:37:35,678 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 14:37:35,678 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 14:37:46,171 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:37:46,171 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:37:46,171 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:37:51,613 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 14:37:51,613 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 14:37:51,613 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 14:38:00,500 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 14:38:00,500 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 14:38:00,500 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 14:38:04,905 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 14:38:04,905 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 14:38:04,905 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 14:38:08,573 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 14:38:08,573 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 14:38:08,573 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 14:38:20,236 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:38:20,236 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:38:20,236 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:38:20,236 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:38:26,897 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 14:38:26,897 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 14:38:26,897 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 14:38:26,897 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 14:38:26,897 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 14:38:26,897 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 14:38:26,897 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 14:38:26,897 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 14:38:32,320 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 14:38:32,320 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 14:38:32,320 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 14:38:32,320 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 14:38:37,210 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 14:38:37,210 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 14:38:37,210 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 14:38:37,210 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 14:39:01,532 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:39:01,532 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:39:01,532 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:39:01,532 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:39:01,532 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:39:08,262 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:39:08,262 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:39:08,262 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:39:08,262 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:39:08,262 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:39:19,652 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:39:19,652 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:39:19,652 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:39:19,652 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:39:19,652 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:41:48,151 - automationlogger - INFO - *************** Testing Booking Cars Started *****************
+2024-11-28 14:41:51,727 - automationlogger - INFO - ***************** Opening Websites ***************
+2024-11-28 14:41:54,500 - automationlogger - INFO - ***************** Opening Car Tab for Booking ***************
+2024-11-28 14:42:06,997 - automationlogger - INFO - ************ Car Booking Finished ***********
+2024-11-28 14:42:16,159 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:42:16,159 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:42:22,124 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 14:42:22,124 - automationlogger - INFO - ************ Booking Flight ticket  Process **************
+2024-11-28 14:42:37,295 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 14:42:37,295 - automationlogger - INFO - ************* Ticket Booking Process Finished **************
+2024-11-28 14:42:43,368 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 14:42:43,368 - automationlogger - INFO - ************** Flight Type ****************
+2024-11-28 14:42:52,620 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:42:52,620 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:42:52,620 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:42:58,630 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 14:42:58,630 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 14:42:58,630 - automationlogger - INFO - ************ Booking Hotels Process **************
+2024-11-28 14:43:06,607 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 14:43:06,607 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 14:43:06,607 - automationlogger - INFO - **************** Total Passengers ******************
+2024-11-28 14:43:12,107 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 14:43:12,107 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 14:43:12,107 - automationlogger - INFO - ****************** Flight ticket price *************
+2024-11-28 14:43:16,545 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 14:43:16,545 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 14:43:16,545 - automationlogger - INFO - *****************Hotel Booking Process Finished **********
+2024-11-28 14:43:27,140 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:43:27,140 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:43:27,140 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:43:27,140 - automationlogger - INFO - *************** Testing Logging Page Started *****************
+2024-11-28 14:43:33,432 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 14:43:33,432 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 14:43:33,432 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 14:43:33,432 - automationlogger - INFO - ****************** Login title name success *******************
+2024-11-28 14:43:33,432 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 14:43:33,432 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 14:43:33,432 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 14:43:33,432 - automationlogger - INFO - ************** Creating Logging Account *************
+2024-11-28 14:43:38,835 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 14:43:38,835 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 14:43:38,835 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 14:43:38,835 - automationlogger - INFO - ***************** Test Login Success *******************
+2024-11-28 14:43:40,966 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 14:43:40,966 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 14:43:40,966 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 14:43:40,966 - automationlogger - INFO - **************** Test Loggin Finished ****************
+2024-11-28 14:43:44,673 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 14:43:44,673 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 14:43:44,673 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 14:43:44,673 - automationlogger - INFO - **************** Test Logout Success ***************
+2024-11-28 14:43:50,962 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:43:50,962 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:43:50,962 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:43:50,962 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:43:50,962 - automationlogger - INFO - *************** Testing Booking Tours Started *****************
+2024-11-28 14:43:57,285 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:43:57,285 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:43:57,285 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:43:57,285 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:43:57,285 - automationlogger - INFO - ************ Booking Tour Process **************
+2024-11-28 14:44:10,698 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:44:10,698 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:44:10,698 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:44:10,698 - automationlogger - INFO - ************* Testing Booking Process Finished **************
+2024-11-28 14:44:10,698 - automationlogger - INFO - ************* Testing Booking Process Finished **************
