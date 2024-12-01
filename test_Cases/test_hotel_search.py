@@ -9,7 +9,7 @@ from test_Cases.conftest import save_screenshots
 @pytest.mark.second
 @pytest.mark.usefixtures("setup")
 class TestLogin:
-    base_url = "https://www.phptravels.net/"
+    base_url = TestData.BASE_URL
 
 
     def test_login001(self,setup):

@@ -1,6 +1,7 @@
 import pytest
 from PageObejectModule.LoginPage import Login_001
 from Utilities.CustomerLogin import LogGen
+from TestData.Basename import TestData
 import time
 
 from test_Cases.conftest import save_screenshots
@@ -9,7 +10,7 @@ from test_Cases.conftest import save_screenshots
 @pytest.mark.first
 @pytest.mark.usefixtures("setup")
 class TestLogin:
-    base_url = "https://www.phptravels.net/"
+    base_url = TestData.BASE_URL
 
 
     def test_login001(self,setup):
@@ -19,6 +20,7 @@ class TestLogin:
         self.driver.get(self.base_url)
         self.lp = Login_001(self.driver)
         self.lp.account_btn_click()
+        self.data = TestData()
         time.sleep(2)
         head_001 = 'PHPTRAVELS'
         assert self.driver.title == head_001
@@ -29,7 +31,7 @@ class TestLogin:
 
         self.loggin.info("************** Creating Logging Account *************")
         self.lp.login_click()
-        self.lp.user_details("user@phptravels.com","demouser")
+        self.lp.user_details(self.data.USERNAME,self.data.PASSWORD)
         self.lp.continue_btn()
         time.sleep(2)
         head_002 = "Dashboard"

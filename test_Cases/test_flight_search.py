@@ -1,6 +1,7 @@
 import pytest
 from PageObejectModule.FlightSearch import FlightSearch
 from Utilities.CustomerLogin import LogGen
+from TestData.Basename import TestData
 import time
 
 from test_Cases.conftest import save_screenshots
@@ -9,7 +10,7 @@ from test_Cases.conftest import save_screenshots
 @pytest.mark.third
 @pytest.mark.usefixtures("setup")
 class TestLogin:
-    base_url = "https://www.phptravels.net/"
+    base_url = TestData
 
 
     def test_login001(self,setup):
